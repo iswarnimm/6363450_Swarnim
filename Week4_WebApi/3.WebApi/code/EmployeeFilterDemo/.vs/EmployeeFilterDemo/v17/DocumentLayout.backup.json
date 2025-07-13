@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|c:\\users\\kiit\\source\\repos\\employeefilterdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|c:\\users\\kiit\\source\\repos\\employeefilterdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|c:\\users\\kiit\\source\\repos\\employeefilterdemo\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|solutionrelative:filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|c:\\users\\kiit\\source\\repos\\employeefilterdemo\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|solutionrelative:filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|c:\\users\\kiit\\source\\repos\\employeefilterdemo\\employeefilterdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|solutionrelative:employeefilterdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|c:\\users\\kiit\\source\\repos\\employeefilterdemo\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|solutionrelative:models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|c:\\users\\kiit\\source\\repos\\employeefilterdemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|c:\\users\\kiit\\source\\repos\\employeefilterdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{963D53B7-A0EF-44C5-9567-F47D40C1B0BC}|EmployeeFilterDemo.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:26:05.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:25:42.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:25:07.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeFilterDemo",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\EmployeeFilterDemo.csproj",
+              "RelativeDocumentMoniker": "EmployeeFilterDemo.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\EmployeeFilterDemo.csproj",
+              "RelativeToolTip": "EmployeeFilterDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T15:24:12.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:23:20.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Models\\Skill.cs",
+              "RelativeToolTip": "Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:22:48.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:22:16.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT\\source\\repos\\EmployeeFilterDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:21:42.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
